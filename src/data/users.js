@@ -1,0 +1,31 @@
+export const users = [
+  {
+    id: 1,
+    name: 'Ewane Marie Ann Essa',
+    email: 'admin@medicareplus.com',
+    password: 'Admin123!',
+    role: 'admin',
+    phone: '+237671390055',
+    avatar: '👩‍💼',
+  },
+  {
+    id: 2,
+    name: 'Dr. Ewane Marie Ann Essa',
+    email: 'doctor@medicareplus.com',
+    password: 'Doctor123!',
+    role: 'doctor',
+    phone: '+237671390055',
+    avatar: '👨‍⚕️',
+    specialty: 'Cardiology',
+  },
+  {
+    id: 3,
+    name: 'Ewane Marie Ann Essa',
+    email: 'patient@medicareplus.com',
+    password: 'Patient123!',
+    role: 'patient',
+    phone: '+237671390055',
+    avatar: '👤',
+    dateOfBirth: '1990-05-15',
+  },
+];
